@@ -1,0 +1,26 @@
+{
+  "name": "secu",
+  "version": "1.0.0",
+  "description": "secu",
+  "main": "index.js",
+  "scripts": {
+    "test": "secu-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Letonade/Hitema-M1x2-SecuCode-2018-2019.git"
+  },
+  "keywords": [
+    "secu",
+    "hitema"
+  ],
+  "author": "Leton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Letonade/Hitema-M1x2-SecuCode-2018-2019/issues"
+  },
+  "homepage": "https://github.com/Letonade/Hitema-M1x2-SecuCode-2018-2019#readme",
+  "dependencies": {
+    "eslint-plugin-security": "^1.4.0"
+  }
+}
