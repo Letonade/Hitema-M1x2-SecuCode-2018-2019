@@ -7,5 +7,6 @@ const product_controller = require('../controllers/product.controller');
 
 // a simple test url to check that all of our files are communicating correctly.
 router.get('/test', product_controller.test);
+router.get('/testExercice', product_controller.testExercice);
 
 module.exports = router;
